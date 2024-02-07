@@ -14,15 +14,15 @@ hello ,
 ## Autom semester
 
 
-|courses    | credits    |
-|-------------------|-----------|
-|cs101|3|
-|ph101|2|
-|cs100 |1|
-|no101|2
-|ch101|2|
-|ch102|2|
-|ma101|3|
+|courses    | credits    |instructor|course webpage|
+|-------------------|-----------|-----|-----|
+|cs101|3|Dr.clint p george|
+|ph101|2|Dr.Santhosh kumar das|
+|cs100 |1|Dr.Sreejith|
+|no101|2|santhosh|
+|ch101|2|Dr.Raja mitra|
+|ch102|2|Dr.Shiva subramanya iyer
+|ma101|3|Dr.sandeepan de|
 
 ## hobbys
 
